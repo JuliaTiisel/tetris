@@ -3,5 +3,5 @@
     </p>
 
 <h4 align="center"> 
-    ✅  Completede project  ✅
+    ✅  Completed project  ✅
 </h4>
